@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinxuan Fu</title>
+    <link>https://fustinose.github.io/cmu/</link>
+    <description>Personal website of Yinxuan Fu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://fustinose.github.io/cmu/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title></title>
+        <link>https://fustinose.github.io/cmu/bscs/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://fustinose.github.io/cmu/bscs/</guid>
+        <description>Some Academic History I went to Shanghai Foreign Language School until 2015. I then went to Cranbrook Schools at Bloomfield Hills, Michigan, where I found my initial academic interests: Cognitive Science. I therefore applied and began my college in Psychology.
+Still, CMU was renowned for its computer science program. After taking some introductory courses to programming (why not), I found greater pleasure in coding. I decided to switch to the School of Computer Science, and here I am.</description>
+      </item>
+    
+  </channel>
+</rss>
