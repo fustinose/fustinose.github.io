@@ -12,7 +12,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://fustinose.github.io/work/bytedance/</guid>
-        <description>ByteDance  AI Lab, Speech and Audio Engineering I focused on the refactoring of the existing search engine which provides index and storage of audio fingerprints for almost all of ByteDance&amp;rsquo;s products. During my three-month internship and with the help from my colleagues, I designed and built the new system architecture that separates storage and computation for the purpose of cloud-nativization. Specifically,
+        <description>ByteDance AI Lab, Speech and Audio Engineering I focused on the refactoring of the existing search engine which provides index and storage of audio fingerprints for almost all of ByteDance&amp;rsquo;s products. During my three-month internship and with the help from my colleagues, I designed and built the new system architecture that separates storage and computation for the purpose of cloud-nativization. Specifically,
  I designed and implemented a virtual-consensus-based log system, achieving near 400 Append QPS for log entries of 500KB I optimized the snapshot serialization and deserialization of the in-memory index, achieving 10x speedup on GBs of data.</description>
       </item>
     
@@ -22,7 +22,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://fustinose.github.io/work/talkmeup/</guid>
-        <description>TalkMeUp Inc.  Backend Engineer Intern I had my first internship as a software engineer at TalkMeUp Inc., which was a startup company located in Pittsburgh. It was the first time I got exposed to real industry software development. We used Node.js and React to build our web-based product. My main responsibility surrounded our database. I led the design and implementation of our MongoDB collections to serve our frontend requests.</description>
+        <description>TalkMeUp Inc. Backend Engineer Intern I had my first internship as a software engineer at TalkMeUp Inc., which was a startup company located in Pittsburgh. It was the first time I got exposed to real industry software development. We used Node.js and React to build our web-based product. My main responsibility surrounded our database. I led the design and implementation of our MongoDB collections to serve our frontend requests. Specifically,</description>
       </item>
     
   </channel>
