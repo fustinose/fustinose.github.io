@@ -1,18 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://fustinose.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2021-08-11T10:59:33+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://fustinose.github.io/cn/sitemap.xml</loc>
-		
-	   	<lastmod>2021-08-11T10:59:33+08:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/about/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/cmu/bscs/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/contact/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/misc/games/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/misc/music/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/misc/reading/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/work/bytedance/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+  
+    <url>
+      <loc>https://fustinose.github.io/work/talkmeup/</loc>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </url>
+    
+  
+</urlset>
